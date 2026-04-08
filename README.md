@@ -42,4 +42,4 @@ Demonstrar a integração de inteligência artificial em aplicações web intera
 
 ## Interface
 
-![Chatbot](screenshot.png)
+![Chatbot](screenshot.jpeg)
