@@ -15,7 +15,9 @@ Este projeto consiste em um chatbot com inteligência artificial desenvolvido ut
 - OpenAI API
 
 ## Como funciona
-O usuário envia uma mensagem, que é processada pela API da OpenAI, retornando uma resposta gerada por um modelo de linguagem.
+
+O chatbot armazena o histórico da conversa e envia as mensagens para um modelo de linguagem (quando disponível).  
+Caso não haja API configurada, o sistema utiliza um modo de demonstração com respostas simuladas.
 
 ## Como executar
 
@@ -37,3 +39,7 @@ streamlit run main.py
 
 ## Objetivo
 Demonstrar a integração de inteligência artificial em aplicações web interativas.
+
+## 💬 Interface
+
+![Chatbot](screenshot.png)
