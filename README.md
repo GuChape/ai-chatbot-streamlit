@@ -40,6 +40,6 @@ streamlit run main.py
 ## Objetivo
 Demonstrar a integração de inteligência artificial em aplicações web interativas.
 
-## 💬 Interface
+## Interface
 
 ![Chatbot](screenshot.png)
